@@ -1,0 +1,54 @@
+[
+  {
+  "id":1,
+  "title":"Video",
+  "objectif":"Apprendre le pinyin",
+  "type":"lesson",
+  "description":"Introduction au Pinyin, l'Alphabet Phonétique Chinois et aux quatre tons du mandarin.",
+  "image":"http://www.chine-nouvelle.com/jdd/public/documents/thumbs/methode/01.gif",
+  "video":"https://www.youtube.com/embed/ZbZhk23bG08",
+  "url":"http://www.chine-informations.com/mandarin/methode/index.php?lecon=1",
+  "exercice":"file:///android_asset/co/exercices.html"
+},
+  {
+  "id":2,
+  "title":"Culture",
+  "objectif":"Elément culturel",
+  "type":"culture",
+  "description":"Introduction au Pinyin, l'Alphabet Phonétique Chinois et aux quatre tons du mandarin. \nPremière conversation: Bonjour, Au revoir. Premier exercice de calligraphie chinoise. ",
+  "image":"http://www.chine-nouvelle.com/jdd/public/documents/thumbs/methode/01.gif",
+  "video":"https://www.youtube.com/embed/ZbZhk23bG08",
+  "url":"http://www.chine-informations.com/mandarin/methode/index.php?lecon=1",
+  "exercice":"file:///android_asset/co/exercices.html"
+},
+  {
+  "id":3,
+  "title":"Vocabulaire",
+  "objectif":"Première conversation: Bonjour, Au revoir.",
+  "type":"culture",
+  "description":"Première conversation: Bonjour, Au revoir.",
+  "image":"http://www.chine-nouvelle.com/jdd/public/documents/thumbs/methode/01.gif",
+  "video":"https://www.youtube.com/embed/ZbZhk23bG08",
+  "url":"http://www.chine-informations.com/mandarin/methode/index.php?lecon=1",
+  "exercice":"file:///android_asset/co/exercices.html",
+  "characters": [
+    { "word":"呢","pinyin":"ne", "translation":"il", "soundfile":"cmn-00eab2c6.mp3","definition":"il, elle, ce, cela, la"},
+    { "word":"酒","pinyin":"jiǔ", "translation":"vin", "soundfile":"cmn-0187ac5b.mp3","definition":"vin, vins, des vins, de vin, du vin"}
+  ]
+},
+  {
+  "id":4,
+  "title":"Ecriture",
+  "objectif":"Base de l'écriture :  Premier exercice de calligraphie chinoise.",
+  "type":"ecriture",
+  "description":" Premier exercice de calligraphie chinoise.  ",
+  "image":"http://www.chine-nouvelle.com/jdd/public/documents/thumbs/methode/01.gif",
+  "video":"https://www.youtube.com/embed/ZbZhk23bG08",
+  "url":"http://www.chine-informations.com/mandarin/methode/index.php?lecon=1",
+  "exercice":"file:///android_asset/co/exercices.html",
+  "characters": [
+    { "word":"呢","pinyin":"ne", "translation":"il", "soundfile":"cmn-00eab2c6.mp3","definition":"il, elle, ce, cela, la"},
+    { "word":"酒","pinyin":"jiǔ", "translation":"vin", "soundfile":"cmn-0187ac5b.mp3","definition":"vin, vins, des vins, de vin, du vin"}
+  ]
+}
+]

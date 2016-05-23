@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:match xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:exeM>
+			<sp:title>Catégorisation</sp:title>
+		</op:exeM>
+		<sc:question>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Glissez les noms des comètes sous les images qui leur correspondent.</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:question>
+		<sc:group>
+			<sc:target>
+				<op:label>
+					<sp:img>
+						<op:labelImg>
+							<sp:img sc:refUri="/Chinois Interactif/initiation/ressources/images/cat_halley.png"/>
+						</op:labelImg>
+					</sp:img>
+				</op:label>
+			</sc:target>
+			<sc:label>
+				<op:label>
+					<sp:txt>
+						<op:labelTxt>
+							<sc:para sc:id="t849">Comète de Halley</sc:para>
+						</op:labelTxt>
+					</sp:txt>
+				</op:label>
+			</sc:label>
+		</sc:group>
+		<sc:group>
+			<sc:target>
+				<op:label>
+					<sp:img>
+						<op:labelImg>
+							<sp:img sc:refUri="/Chinois Interactif/initiation/ressources/images/cat_halebopp.png"/>
+						</op:labelImg>
+					</sp:img>
+				</op:label>
+			</sc:target>
+			<sc:label>
+				<op:label>
+					<sp:txt>
+						<op:labelTxt>
+							<sc:para sc:id="t796">Comète de Hale Bopp</sc:para>
+						</op:labelTxt>
+					</sp:txt>
+				</op:label>
+			</sc:label>
+		</sc:group>
+		<sc:group>
+			<sc:target>
+				<op:label>
+					<sp:img>
+						<op:labelImg>
+							<sp:img sc:refUri="/Chinois Interactif/initiation/ressources/images/cat_giacobin.png"/>
+						</op:labelImg>
+					</sp:img>
+				</op:label>
+			</sc:target>
+			<sc:label>
+				<op:label>
+					<sp:txt>
+						<op:labelTxt>
+							<sc:para sc:id="t804">Comète de Giacobini - Zinner</sc:para>
+						</op:labelTxt>
+					</sp:txt>
+				</op:label>
+			</sc:label>
+		</sc:group>
+		<sc:group>
+			<sc:target>
+				<op:label>
+					<sp:img>
+						<op:labelImg>
+							<sp:img sc:refUri="/Chinois Interactif/initiation/ressources/images/cat_west.png"/>
+						</op:labelImg>
+					</sp:img>
+				</op:label>
+			</sc:target>
+			<sc:label>
+				<op:label>
+					<sp:txt>
+						<op:labelTxt>
+							<sc:para sc:id="t806">Comète de West</sc:para>
+						</op:labelTxt>
+					</sp:txt>
+				</op:label>
+			</sc:label>
+		</sc:group>
+		<sc:globalExplanation>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Il est certes difficile de distinguer une comète d'une autre. Ces photographies sont néanmoins familières et lisibles pour les spécialistes et les amateurs.</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:globalExplanation>
+	</op:match>
+</sc:item>

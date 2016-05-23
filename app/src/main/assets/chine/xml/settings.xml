@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+<mapSettings 
+
+mapWidth = "300"
+mapHeight = "280"
+
+offColor = "222222"
+strokeColor = "24221f"
+strokeWidth = ".5"
+
+useSideText = "true"
+textAreaWidth = "300"
+textAreaHeight = "300"
+textAreaPadding = "10"
+
+/>
+
+<defaultSideText>
+  <![CDATA[<h1>China</h1><br /><p><img width="96" height="60" src="images/1.jpg"/>Morbi sagittis, urna sed convallis tempor, diam enim vulputate massa, in imperdiet enim nisl vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum, lectus eget rhoncus faucibus arcu nulla dapibus nunc.</p><b>Ut quam ligula:</b><br /><br /><ul><li>Lorem ipsum</li><li>Suspendisse elementum</li><li>Ut quam ligula</li><li>In rutrum massa</li></ul><br /><p>Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue. In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci.</p> <p>Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam ligula, porttitor vel rhoncus quis, pellentesque a libero.</p><p>Nam luctus, neque mattis facilisis aliquam, arcu nulla dapibus nunc, consequat imperdiet quam nisi in eros. Nullam velit enim, dignissim aliquet mollis in, dictum vitae mauris. Quisque viverra, nibh et laoreet venenatis, dolor odio pulvinar enim, in ultricies lorem diam ac augue.</p><p>In rutrum massa eleifend neque congue tincidunt. Sed quis ipsum libero. Ut vel mauris orci. Suspendisse elementum, lectus eget rhoncus faucibus, turpis sem tempor erat, quis lobortis dui felis non ligula.</p>]]>
+</defaultSideText>
+
+<stateData stateName="Anhui" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Anhui</h1>
+<b>Les missions :</b><br /><br />
+<img width="75" height="75" src="images/anhui/1.jpg"/></td><td><b>Mont Jiuhua</b><br />九华山<br />Les neufs montagnes glorieuses<br/><br/><br/>
+<img width="75" height="75" src="images/anhui/2.jpg"/></td><td><b>Mount Huangshan (1)</b><br><br/><br/><br/><br/>
+<img width="75" height="75" src="images/anhui/3.jpg"/></td><td><b>Mount Huangshan (2)</b><br><br/><br/><br/><br/>
+<img width="75" height="75" src="images/anhui/4.jpg"/></td><td><b>Ancient village de Xidi</b><br/><br/><br/><br/><br/>
+<img width="75" height="75" src="images/anhui/5.jpg"/></td><td><b>Ancient village de Hongcun</b><br/><br/><br/><br/>
+]]>
+
+</stateData>
+
+<stateData stateName="Beijing" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Beijing</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Chongqing" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Chongqing</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Fujian" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "FF9900" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Fujian</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Guangdong" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Guangdong</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Guangxi" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Guangxi</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Gansu" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Gansu</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Guizhou" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Guizhou</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+
+<stateData stateName="Hainan" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Hainan</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Hebei" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Hebei</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Heilongjiang" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Heilongjiang</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Henan" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Henan</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Hubei" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Hubei</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Hunan" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Hunan</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Jiangxi" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Jiangxi</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Jiansu" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Jiansu</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Jilin" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Jilin</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Liaoning" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Liaoning</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Nei Mongol" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Nei Mongol</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Ningxia" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Ningxia</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Qinghai" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Qinghai</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Shanxi" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Shanxi</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Shaanxi" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Shaanxi</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Shandong" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Shandong</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Shanghai" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Shanghai</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Sichuan" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Sichuan</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Taiwan" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Taiwan</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Tibet" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Tibet</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Tinajin" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Tinajin</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Xinjiang" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "B12401" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Xinjiang</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Yunnan" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "999966" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Yunnan</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+<stateData stateName="Zhejiang" url = "http://marketplace.envato.com/user/LGLab" stateMode = "ON" initialStateColor= "58798D" stateOverColor = "E32F02" stateSelectedColor = "feb41c">
+<![CDATA[<h1>Zhejiang</h1>
+<b>Quisque viverra:</b><br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>John Doe</b><br />Creative Director<br />email: <a href="mailto:johndoe@lglab.com">johndoe@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Mary Smith</b><br>Technical Director<br />email: <a href="mailto:marysmith@lglab.com">marysmith@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Lee Johnson</b><br>Senior Developer<br />email: <a href="mailto:leejohnson@lglab.com">leejohnson@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />
+<img width="75" height="75" src="images/3.jpg"/><b>Linda Brown</b><br>Project Manager<br />email: <a href="mailto:lindabrown@lglab.com">lindabrown@lglab.com</a><br />Tel: 888-8888-888<br />Fax: 888-8888-887<br /><br />]]>
+</stateData>
+
+
+
+</data>

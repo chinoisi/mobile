@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <yesuaini.chinoisinteractif.hsk.views.ExamResultPieChart
+        android:id="@+id/pieChart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/correctAnswersLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="24dp"
+            android:layout_marginTop="27dp"
+            android:text="@string/correct_answers"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/wrongAnswersLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/correctAnswersLabel"
+            android:layout_below="@+id/correctAnswersLabel"
+            android:layout_marginTop="29dp"
+            android:text="@string/incorrect_answers"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/wrongAnswersTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/wrongAnswersLabel"
+            android:layout_alignBottom="@+id/wrongAnswersLabel"
+            android:layout_alignLeft="@+id/correctAnswersTextView"
+            android:text="105"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ffff0000" 
+            tools:ignore="HardcodedText"/>
+
+        <TextView
+            android:id="@+id/correctAnswersTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/correctAnswersLabel"
+            android:layout_alignBottom="@+id/correctAnswersLabel"
+            android:layout_marginLeft="22dp"
+            android:layout_toRightOf="@+id/wrongAnswersLabel"
+            android:text="108"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ff00ff00" 
+            tools:ignore="HardcodedText"/>
+
+        <TextView
+            android:id="@+id/gradeTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/gradeLabel"
+            android:layout_alignBottom="@+id/gradeLabel"
+            android:layout_alignLeft="@+id/wrongAnswersTextView"
+            android:text="C"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="48sp" 
+            tools:ignore="HardcodedText"/>
+
+        <TextView
+            android:id="@+id/gradeLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/wrongAnswersLabel"
+            android:layout_below="@+id/wrongAnswersLabel"
+            android:layout_marginTop="50dp"
+            android:text="@string/grade"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </RelativeLayout>
+
+</LinearLayout>

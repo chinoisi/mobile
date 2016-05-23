@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:ordWord xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:exeM>
+			<sp:title>Mots dans l'ordre</sp:title>
+		</op:exeM>
+		<sc:question>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Replacer les comètes ci-dessous dans l'ordre chronologique de leur première apparition référencée :</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:question>
+		<sc:label>
+			<op:labelTxt>
+				<sc:para xml:space="preserve"><sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Halley</sc:inlineStyle></sc:para>
+			</op:labelTxt>
+		</sc:label>
+		<sc:label>
+			<op:labelTxt>
+				<sc:para xml:space="preserve"><sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>West</sc:inlineStyle></sc:para>
+			</op:labelTxt>
+		</sc:label>
+		<sc:label>
+			<op:labelTxt>
+				<sc:para xml:space="preserve"><sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Shoemaker Levy 9</sc:inlineStyle></sc:para>
+			</op:labelTxt>
+		</sc:label>
+		<sc:label>
+			<op:labelTxt>
+				<sc:para xml:space="preserve"><sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Hale Bopp</sc:inlineStyle></sc:para>
+			</op:labelTxt>
+		</sc:label>
+		<sc:globalExplanation>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Toutes ces comètes ont pu être observées récemment :</sc:para>
+						<sc:itemizedList>
+							<sc:listItem>
+								<sc:para xml:space="preserve">La comète de <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Halley</sc:inlineStyle> a fait sa première apparition en 1531, puis en 1607 et 1682. Elle porte le nom d'<sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Edmund Halley</sc:inlineStyle> qui prédit avec justesse sa réapparition en 1758. Elle a été observée pour la dernière fois en 1986 et sera à nouveau visible en 2061. </sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">La comète de <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>West</sc:inlineStyle> fut découverte par <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Richard M. West</sc:inlineStyle> (Danemark), <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>European Southern Observatory</sc:inlineStyle> en 1975.</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve"><sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Shoemaker Levy 9</sc:inlineStyle> a été observée en 1994. Elle est connue pour être entrée en collision avec Jupiter cette année là. Elle doit son nom au fait que c'est la 9e comète identifiée par ses découvreurs <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Carolyn</sc:inlineStyle>, <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Eugene M. Shoemaker</sc:inlineStyle> et <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>David Levy</sc:inlineStyle>.</sc:para>
+							</sc:listItem>
+							<sc:listItem>
+								<sc:para xml:space="preserve">La comète <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Hale Bopp</sc:inlineStyle> a été observée par <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>A. Hale</sc:inlineStyle> et<sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM> T.J. Bopp</sc:inlineStyle> en 1995.</sc:para>
+							</sc:listItem>
+						</sc:itemizedList>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:globalExplanation>
+	</op:ordWord>
+</sc:item>

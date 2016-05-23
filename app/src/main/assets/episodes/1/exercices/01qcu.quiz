@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:mcqSur xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:exeM>
+			<sp:title>QCU</sp:title>
+		</op:exeM>
+		<sc:question>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para sc:id="t567">Qu'est-ce que le périhélie ?</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:question>
+		<sc:choices>
+			<sc:choice>
+				<sc:choiceLabel>
+					<op:txt>
+						<sc:para sc:id="t568">La position où la comète est la plus rapprochée du soleil </sc:para>
+					</op:txt>
+				</sc:choiceLabel>
+			</sc:choice>
+			<sc:choice>
+				<sc:choiceLabel>
+					<op:txt>
+						<sc:para sc:id="t570">La distance moyenne entre le soleil et la terre</sc:para>
+					</op:txt>
+				</sc:choiceLabel>
+			</sc:choice>
+			<sc:choice>
+				<sc:choiceLabel>
+					<op:txt>
+						<sc:para sc:id="t945">La position où la comète est la plus éloignée du soleil</sc:para>
+					</op:txt>
+				</sc:choiceLabel>
+			</sc:choice>
+		</sc:choices>
+		<sc:solution choice="1"/>
+		<sc:globalExplanation>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve" sc:id="t578">La distance moyenne entre le soleil et la terre est l'étalon qui définit l'<sc:uLink role="acr" sc:refUri="/Chinois Interactif/initiation/ressources/references/UA.ref">UA</sc:uLink>.</sc:para>
+						<sc:para xml:space="preserve" sc:id="t980">La distance moyenne entre le soleil et la terre est absolument sans rapport avec le <sc:uLink role="glos" sc:refUri="/Chinois Interactif/initiation/ressources/references/perihelie.ref">périhélie</sc:uLink> de la comète, hors le fait que ce périhélie est exprimé en UA - ce qui n'a rien de bien exceptionnel.</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:globalExplanation>
+	</op:mcqSur>
+</sc:item>

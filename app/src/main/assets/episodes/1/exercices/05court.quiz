@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:field xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:exeM>
+			<sp:title>Question fermée</sp:title>
+		</op:exeM>
+		<sc:question>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">Comment appelle-t-on la phase où, sous l'effet de la chaleur solaire, les glaces de surface de la comète passent de l'état solide à l'état gazeux ? </sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:question>
+		<sp:asw>
+			<sc:SFSolution>
+				<sc:value>le dégazage</sc:value>
+				<sc:value>dégazage</sc:value>
+			</sc:SFSolution>
+		</sp:asw>
+		<sc:globalExplanation>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve">On dit que la comète dégaze quand elle entre en activité. C'est à ce moment que les queues de la comète deviennent visibles.</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:globalExplanation>
+	</op:field>
+</sc:item>

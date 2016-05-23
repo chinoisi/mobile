@@ -1,0 +1,447 @@
+{"f":"co/exercices_1.html","m":"co/exercices_2.html","b":"co/0Module_chinois_2.html","d":"co/I-phonetique_1.html","e":"co/exercices.html","n":"co/01qcu.html","c":"co/I-phonetique.html","p":"co/03ord.html","s":"co/06categ.html","r":"co/05court.html","h":"co/IA-les-initiales.html","g":"co/0Module_chinois_3.html","j":"co/IC-les-tons.html","o":"co/02qcm.html","l":"co/I-phonetique_3.html","k":"co/I-phonetique_2.html","i":"co/IB-les-finales.html","q":"co/04tat.html","a":"co/0Module_chinois_1.html"}
+["2","1"]
+{"wordPattern":"[^\\u0000-/:-@\\[-`{-\\u00A0]+(?:[-][^\\u0000-/:-@\\[-`{-\\u00A0]+)?|\\d+(?:[,.]\\d+)?","filters":[{"type":"excludeShortWords","forWords":"\\d+","min":1},{"type":"excludeShortWords","forWords":"\\D+","min":3},{"type":"cutLongWords","max":20},{"type":"lowerCase"},{"type":"ignoreWords","words":{"hors":1,"pourquoi":1,"faites":1,"nouveaux":1,"nommés":1,"essai":1,"tellement":1,"dos":1,"parce":1,"elles":1,"cela":1,"est":1,"pièce":1,"aussi":1,"pour":1,"sous":1,"avec":1,"ou":1,"donc":1,"plupart":1,"dehors":1,"mon":1,"fois":1,"son":1,"trop":1,"fait":1,"notre":1,"seulement":1,"là":1,"état":1,"deux":1,"moins":1,"mot":1,"aucuns":1,"comment":1,"du":1,"avant":1,"des":1,"doit":1,"juste":1,"sujet":1,"vu":1,"peu":1,"ces":1,"droite":1,"tels":1,"ma":1,"mine":1,"encore":1,"eu":1,"les":1,"voie":1,"elle":1,"autre":1,"nous":1,"tu":1,"dedans":1,"soyez":1,"sans":1,"parole":1,"en":1,"force":1,"ni":1,"et":1,"tous":1,"tout":1,"sien":1,"depuis":1,"quand":1,"voient":1,"même":1,"quels":1,"tandis":1,"où":1,"quelles":1,"personnes":1,"leur":1,"maintenant":1,"ta":1,"être":1,"valeur":1,"ça":1,"font":1,"alors":1,"votre":1,"comme":1,"si":1,"le":1,"sa":1,"devrait":1,"ci":1,"la":1,"ce":1,"tes":1,"été":1,"car":1,"début":1,"ses":1,"vous":1,"chaque":1,"par":1,"étions":1,"ici":1,"sur":1,"pas":1,"mes":1,"quelle":1,"étaient":1,"ton":1,"que":1,"qui":1,"mais":1,"avoir":1,"il":1,"dans":1,"très":1,"au":1,"bon":1,"peut":1,"je":1,"sont":1,"haut":1,"quel":1,"ceux":1,"ils":1,"vont":1}},{"type":"filterAccentedLatinLetters"}]}
+predit	p.01
+scientifique	f.02
+lisibles	s.01
+frottement	i.01
+tend	h.01
+attraction	o.01	q.01
+bonne	f.01
+parcourir	o.01
+initiale	h.01
+video	c.01	k.10
+assez	h.01
+pratiques	a.01
+animation	f.01
+subit	q.01
+incandescence	i.01
+2	o.01
+allument	l.01
+european	p.01
+prononces	h.01
+prononcer	b.01
+5	b.01
+recemment	p.01
+9	p.02
+depart	f.01
+apprendre	d.01
+francais	h.02
+finale	h.01
+dialecte	b.01
+vitesse	i.01
+toujours	b.01
+kepler	o.03
+porte	i.01	p.01
+taiwan	a.01
+grands	b.01
+termes	q.01
+sequence	f.01
+faut	b.01	h.01
+dizaines	i.01
+apres	h.01
+exerce	o.01	q.01
+han	b.01
+visible	p.01
+fermee	m.01	r.10
+grandes	g.01
+nouveau	p.01
+exceptionnel	n.01
+tons	d.01
+filante	i.01
+ordre	m.01	p.11
+testez	e.01	m.10
+large	g.01
+ordonner	p.01
+dites	h.01
+1607	p.01
+seule	o.01
+atmospherique	j.11
+etoile	i.01
+partie	f.01
+etoiles	i.01
+population	b.01
+garantie	f.01
+couvre	h.01
+cometaire	c.01
+carre	o.01
+laquelle	q.01
+effacer	f.01
+job	h.01
+activite	r.01
+photographies	s.01
+auto	f.01
+pays	b.01
+appelle-t	r.01
+visibles	r.01
+eloignee	n.01
+distance	n.03
+dimensions	i.01
+entrainements	f.01
+entree	p.01
+voir	f.01	l.01
+orbitent	i.01
+degaze	r.01
+diversite	b.01
+noms	s.01
+ellipses	o.01
+pierres	i.01
+correspondent	s.01
+meteorites	i.03
+decrivent	o.01
+chronologique	p.01
+cometes	g.01	j.01	l.01	p.02	s.01
+specialistes	s.01
+joint	o.01
+meteore	i.01
+deposez	p.01	s.04
+nombreuses	b.01
+familieres	s.01
+astrophysique	g.01
+comete	n.03	p.04	r.03	s.05
+meteores	i.02
+nombreux	d.01
+1682	p.01
+halley	p.03	s.01
+ethnies	b.01
+comprehension	g.01
+aspire	h.01
+prononciations	h.01
+filantes	i.01
+ensuite	l.01
+glissez	s.01
+richard	p.01
+moyenne	n.03
+elements	p.01	s.01
+jupiter	p.01
+loi	q.01
+observee	p.03
+adequats	q.01
+autres	i.01
+commence	h.01
+chinois	a.02	b.04	d.03	h.01
+egaux	o.01
+solaire	j.01	r.01
+categorisation	m.01	s.10
+expliquer	l.01
+rochers	i.01
+definissant	q.01
+astronomique	j.10
+totalement	j.01
+enoncees	o.01
+identifiee	p.01
+adoptee	d.01
+telle	b.01
+shoemaker	p.03
+chine	a.01	b.01	d.01
+exprime	n.01
+allons	l.01
+annees	d.01
+faire	b.01	h.01
+penetre	i.01
+pinyin	d.03
+eugene	p.01
+planete	o.02
+newton	o.01	q.01
+utilises	d.01
+utiliser	f.01
+propositions	o.01
+rua	b.01
+provoquee	i.01
+legerement	h.01
+solide	r.01
+connaissances	e.01	m.10
+repliee	h.01
+cliquez	f.03
+question	f.01	m.01	r.10
+attention	h.01
+commune	b.02
+exercice	m.06	n.10	o.10	p.10	q.10	r.10	s.10
+vers	h.02
+surface	r.01
+quelques	i.01
+chacun	b.01
+apparition	p.02
+rapport	n.01
+avez	g.01
+toutes	p.01
+trois	o.01
+majoritaire	b.01
+parmi	j.01	o.01
+uns	i.01
+nom	p.02
+non	o.01
+lumineux	i.02
+une	a.01	b.05	g.01	h.03	i.02	o.02	q.01	s.02
+objectifs	a.10
+conclusion	c.01	g.10	l.10
+asteroides	i.03
+module	a.01	b.01	f.01
+observation	g.01	j.01
+reste	h.01
+consonne	h.02
+notions	a.02
+definitivement	j.01
+terrestre	i.01
+acceleration	q.01
+giacobini	s.01
+annee	p.01
+chien	h.01
+aires	o.01
+rocheux	i.01
+acquis	a.01
+genius	h.01
+tongue	b.01
+proportionnelle	q.02
+definitions	c.01
+suite	l.01
+distinguer	s.01
+glaces	r.01
+evaluation	f.01
+complement	h.01
+premiere	a.01	p.02
+corps	i.02	o.01	q.01
+generale	b.01
+initiales	c.01	h.12
+carolyn	p.01
+definition	i.04
+aspirees	h.01
+total	h.01
+agit	q.01
+chaleur	r.01
+collision	p.01
+air	h.01	i.01
+gutural	h.01
+autour	i.01
+immense	b.01
+introduction	b.10	c.01	d.11	e.01	f.10
+zinner	s.01
+affaires	a.01
+pedagogique	f.01
+foyer	o.01
+dialectal	b.01
+france	b.01
+kilometriques	i.01
+systemes	d.01
+anglais	h.03
+prononce	h.09
+objet	f.01
+litteralement	b.01
+constituee	f.01
+reponse	f.01	n.01	o.02
+danemark	p.01
+cette	f.02	j.01	o.01	p.01
+phenomene	c.01	j.10
+lumineuse	i.01
+qcu	m.01	n.10
+informations	f.01
+qcm	m.01	o.10
+replacer	p.01
+grave	h.01
+imputables	f.01
+connue	p.01
+internes	b.01
+phase	r.01
+derniere	f.01	p.01
+correction	n.01	o.01	p.01	q.01	r.01	s.01
+petits	f.01	i.02
+histoire	b.01	g.01
+calculer	f.01
+niveau	d.01
+peuvent	b.01
+amene	i.01
+communication	b.01
+rayon	o.01
+placant	j.01
+referencee	p.01
+choix	n.02	o.02
+ci-dessous	p.01	q.01
+score	f.01
+cours	a.01	l.01
+amateurs	s.01
+ville	b.01
+puis	p.01
+lui	f.01
+mouvement	l.01
+texte	m.01	q.10
+gazeux	r.01
+sol	i.01
+questions	g.01
+terre	n.03
+dont	b.01	o.01	q.01
+alphabet	d.03
+interet	f.01
+different	i.01
+neanmoins	s.01
+moment	r.01
+rapidement	a.01
+redigees	f.01
+initiation	b.01
+effet	r.01
+gravitationnelle	o.02	q.01
+auteur	f.01
+attendu	n.01	o.01
+mots	m.01	p.10
+soumis	q.01
+masse	q.01
+grosses	i.01
+comprend	b.01
+completez	q.01
+trous	m.01	q.10
+queues	r.01
+rememoration	f.01
+chat	h.01
+elementaires	a.01
+occupe	o.01
+variations	b.01
+soleil	i.01	n.05	o.02
+phrase	q.01
+difficile	s.01
+devez	a.01
+planetes	i.01	o.01
+sauf	b.01
+2061	p.01
+premieres	a.01
+1758	p.01
+posseder	a.01
+souche	b.01
+levy	p.03
+passent	r.01
+sera	p.01
+vocabulaire	a.01
+dialectes	b.01
+autonomie	a.01
+officielle	d.01
+facon	q.01
+edmund	p.01
+lors	l.01
+uniquement	f.01
+section	f.01
+1531	p.01
+bopp	p.03	s.01
+rien	n.01
+mandarin	b.01	d.01
+plusieurs	b.01
+nature	g.01
+1975	p.01
+proches	h.01
+taille	i.01
+degazage	r.01
+composee	h.01
+absolument	n.01
+international	d.01
+ruina	j.01
+pure	b.01
+permettra	a.01
+contenu	f.01
+1986	p.01
+gomme	f.01
+face	b.01
+decouvreurs	p.01
+17	b.01
+suivante	f.01
+differences	b.01
+1995	p.01
+21	h.01
+aborde	b.01
+aujourd	d.01
+1994	p.01
+axe	o.01
+developpe	d.01
+fut	p.01
+egales	o.01
+phonetique	c.10	d.02
+orbite	o.02
+figurent	f.01	o.01
+finales	i.10
+hui	b.01	d.01
+est-ce	n.01
+hale	p.03	s.01
+aller	b.01
+inversement	q.01
+theorie	o.01
+destines	f.01
+reapparition	p.01
+diversifiee	b.01
+definit	n.01
+parvienne	i.01
+fondamental	j.01
+revient	o.01
+56	b.01
+metres	i.01
+langue	b.03	h.01
+ptnghua	b.01
+accent	b.01
+rain	h.01
+clip	f.01
+indispensables	a.01
+trace	i.01
+observees	p.01
+quatre	d.01
+demonstration	f.01
+volatilisation	i.01
+souvent	b.01	i.01
+ethnie	b.02
+troisieme	q.01
+perihelie	n.03
+bases	a.01
+temps	o.02
+groupe	b.01
+plus	h.01	i.04	n.02	p.01	s.01
+lois	o.02
+telles	b.01
+atmosphere	i.01
+rapprochee	n.01
+boutons	f.01
+9e	p.01
+david	p.01
+cube	o.01
+position	n.02
+eteindre	l.01
+tch	h.02
+des	l.01
+rend	i.01
+observatory	p.01
+certes	s.01
+southern	p.01
+ressemblent	i.01
+clef	f.01
+expire	h.01
+posees	g.01
+astres	j.01
+mis	o.01
+deviennent	r.01
+consonnes	h.01
+proportionnel	o.01
+basee	d.01
+opale	f.01
+ainsi	f.01	g.01
+prononciation	d.01	h.01
+aux	d.01	h.01	i.01
+exercices	e.10	f.03
+bien	n.01
+systeme	j.01
+grand	o.01
+tirant	h.01
+quelconque	i.01
+transcription	d.01
+justesse	p.01
+syllabe	h.03
+images	s.01
+west	p.03	s.01
+apercu	g.01
+fin	a.01	d.01
+1950	d.01
+erronee	o.01
+forme	i.01
+balaie	o.01
+hypothese	j.01
+ont	b.01	d.01	f.01	p.01
+transcrire	d.01
+dit	b.01	r.01
+entre	h.03	n.03	r.01
+vos	e.01	m.10
+etalon	n.01
+decouverte	p.01
+categoriser	s.01
+recommencer	f.01	n.01	o.01	p.01	q.01	r.01	s.01

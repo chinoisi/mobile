@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/editWordList"
+        android:title="@string/edit_word_list"
+        android:titleCondensed="Edit">
+    </item>
+    <item
+        android:id="@+id/deleteWordList"
+        android:title="@string/delete_word_list"
+        android:titleCondensed="Delete">
+    </item>
+    <item
+        android:id="@+id/editWordListName"
+        android:title="@string/rename_word_list"
+        android:titleCondensed="Rename">
+    </item>
+    <item
+        android:id="@+id/exportWordList"
+        android:title="@string/export_word_list"
+        android:titleCondensed="Export">
+    </item>
+
+</menu>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:item xmlns:sc="http://www.utc.fr/ics/scenari/v3/core">
+	<op:mcqMur xmlns:sp="http://www.utc.fr/ics/scenari/v3/primitive" xmlns:op="utc.fr:ics/opale3">
+		<op:exeM>
+			<sp:title>QCM</sp:title>
+		</op:exeM>
+		<sc:question>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve" sc:id="t581">Quelles sont, parmi ces propositions, des lois énoncées par <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Kepler </sc:inlineStyle>?</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:question>
+		<sc:choices>
+			<sc:choice solution="checked">
+				<sc:choiceLabel>
+					<op:txt>
+						<sc:para xml:space="preserve" sc:id="t582">Les planètes décrivent des ellipses dont le soleil occupe un foyer.</sc:para>
+					</op:txt>
+				</sc:choiceLabel>
+			</sc:choice>
+			<sc:choice solution="unchecked">
+				<sc:choiceLabel>
+					<op:txt>
+						<sc:para xml:space="preserve" sc:id="t584">Tout corps exerce sur tout autre une force d'attraction gravitationnelle.</sc:para>
+					</op:txt>
+				</sc:choiceLabel>
+			</sc:choice>
+			<sc:choice solution="checked">
+				<sc:choiceLabel>
+					<op:txt>
+						<sc:para xml:space="preserve" sc:id="t605">Le rayon qui joint le soleil à la planète balaie des aires égales en des temps égaux.</sc:para>
+					</op:txt>
+				</sc:choiceLabel>
+			</sc:choice>
+			<sc:choice solution="checked">
+				<sc:choiceLabel>
+					<op:txt>
+						<sc:para sc:id="t607">Le carré du temps mis par une planète à parcourir son orbite est proportionnel au cube du grand axe de cette orbite.</sc:para>
+					</op:txt>
+				</sc:choiceLabel>
+			</sc:choice>
+		</sc:choices>
+		<sc:globalExplanation>
+			<op:res>
+				<sp:txt>
+					<op:txt>
+						<sc:para xml:space="preserve" sc:id="t602">Les trois lois de <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Kepler</sc:inlineStyle> figurent ici. Seule la réponse 2 est erronée. C'est à <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Newton</sc:inlineStyle> que revient la théorie de la force gravitationnelle, et non à <sc:inlineStyle role="spec"><op:txtM><sp:lang><op:langM><sp:code>en</sp:code></op:langM></sp:lang></op:txtM>Kepler</sc:inlineStyle>.</sc:para>
+					</op:txt>
+				</sp:txt>
+			</op:res>
+		</sc:globalExplanation>
+	</op:mcqMur>
+</sc:item>

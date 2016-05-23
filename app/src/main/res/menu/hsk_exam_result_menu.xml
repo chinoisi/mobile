@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/exam_result_menu_back_btn"
+          android:icon="@drawable/ic_menu_back"
+          android:titleCondensed="@string/return_condensed"
+          android:title="@string/return_str"/>
+
+</menu>
