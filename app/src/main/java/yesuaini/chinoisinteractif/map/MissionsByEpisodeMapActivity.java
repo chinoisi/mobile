@@ -44,7 +44,7 @@ public class MissionsByEpisodeMapActivity extends AbstractNavigationActivity {
 
     @Override
     protected int getContentViewActivity() {
-        return R.layout.map;
+        return R.layout.map_missions;
     }
 
 
@@ -58,6 +58,7 @@ public class MissionsByEpisodeMapActivity extends AbstractNavigationActivity {
         super.onCreate(savedInstanceState);
 		mActivity = this;
         pref = getBaseContext().getSharedPreferences(MAP_MISSIONS, 0);
+        setContentView(R.layout.map_missions);
         mImageMap = (MissionsByEpisodeMap)findViewById(R.id.missionByEpisodeMap);
         int level = pref.getInt(CURRENT_MISSION_LEVEL_KEY, 1);
         mImageMap.setCurrentLevel(level);
@@ -73,13 +74,11 @@ public class MissionsByEpisodeMapActivity extends AbstractNavigationActivity {
             mActivity.finish();
         }
 
-        mImageMap.addOnImageMapClickedHandler(new ImageMap.OnImageMapClickedHandler()
+         mImageMap.addOnImageMapClickedHandler(new EpisodesMap.OnImageMapClickedHandler()
         {
-			@Override
-			public void onImageMapClicked(int id, ImageMap imageMap)
-			{
-			//	episodesMap.centerAndShowArea(id);
-			//	episodesMap.showBubble(id);
+
+            @Override
+            public void onImageMapClicked(int id, EpisodesMap imageMap) {
                 int level = pref.getInt(CURRENT_MISSION_LEVEL_KEY, 1);
 
                 int index = mImageMap.getAreaIndex(id);
@@ -93,9 +92,9 @@ public class MissionsByEpisodeMapActivity extends AbstractNavigationActivity {
                     mActivity.startActivity(intent);
                     mActivity.finish();
                 }
-			}
+            }
 
-			@Override
+            @Override
 			public void onBubbleClicked(int id)
 			{
 

@@ -3,6 +3,7 @@ package yesuaini.chinoisinteractif.map;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
 import android.util.AttributeSet;
 import android.util.Log;
 
@@ -16,7 +17,7 @@ import java.util.List;
 
 import yesuaini.chinoisinteractif.models.Mission;
 
-public class MissionsByEpisodeMap extends ImageMap {
+public class MissionsByEpisodeMap extends EpisodesMap {
 
     private static final String TAG = "MissionsByEpisodeMap";
     private List<Mission> missions;
@@ -42,20 +43,20 @@ public class MissionsByEpisodeMap extends ImageMap {
             gsonBuilder.setDateFormat("M/d/yy hh:mm a");
             Gson gson = gsonBuilder.create();
             missions = Arrays.asList(gson.fromJson(reader, Mission[].class));
-            nbMissions = missions.size();
+            nbLevels = missions.size();
             inputStream.close();
         } catch (Exception ex) {
             Log.e(TAG, "Failed to parse JSON due to: " + ex);
         }
 
         Integer initialX = 10;
-        Integer initialY = 10 * nbMissions;
+        Integer initialY = 10 * nbLevels;
         Integer width = 70;
         Integer height = 50;
         Integer x = initialX;
         Integer y = initialY;
 
-        for (int i = 1; i <= nbMissions; i++) {
+        for (int i = 1; i <= nbLevels; i++) {
             if (i % 15 == 0) {
                 x = initialX + 300;
                 y = y - 25;
@@ -84,27 +85,35 @@ public class MissionsByEpisodeMap extends ImageMap {
         setMapResource();
     }
 
-
-
     public void setMapResource() {
-        final String imageKey = String.valueOf("mission"+level);
-        BitmapHelper bitmapHelper = BitmapHelper.getInstance();
-        Bitmap bitmap = bitmapHelper.getBitmapFromMemCache(imageKey);
-        options = new BitmapFactory.Options();
-        options.inSampleSize = 1;
+        Bitmap imageBitmap = Bitmap.createBitmap(getPreferredSize(),  getPreferredSize(), Bitmap.Config.ARGB_8888);
+        Canvas canvas = new Canvas(imageBitmap);
+        imageLoader.displayMap(canvas,0,0,1,1,missions.get(0).getImage(),"Episode");
 
-        if (bitmap == null) {
-            try {
-                InputStream inputStream = getResources().getAssets().open("episodes/"+level+"/map.jpg");
-                bitmap = BitmapFactory.decodeStream(inputStream,null,options);
-                inputStream.close();
-            } catch (Exception ex) {
-                Log.e(TAG, "Failed to parse JSON due to: " + ex);
-            }
-            bitmapHelper.addBitmapToMemoryCache(imageKey, bitmap);
-        }
-        setImageBitmap(Bitmap.createScaledBitmap(bitmap,bitmap.getWidth()*nbMissions/15,bitmap.getHeight()*nbMissions/15, false));
+      setImageBitmap(Bitmap.createScaledBitmap(imageBitmap,imageBitmap.getWidth(),imageBitmap.getHeight(), false));
+
     }
+
+
+//    public void setMapResource() {
+//        final String imageKey = String.valueOf("mission"+level);
+//        BitmapHelper bitmapHelper = BitmapHelper.getInstance();
+//        Bitmap bitmap = bitmapHelper.getBitmapFromMemCache(imageKey);
+//        options = new BitmapFactory.Options();
+//        options.inSampleSize = 1;
+//
+//        if (bitmap == null) {
+//            try {
+//                InputStream inputStream = getResources().getAssets().open("episodes/"+level+"/map.jpg");
+//                bitmap = BitmapFactory.decodeStream(inputStream,null,options);
+//                inputStream.close();
+//            } catch (Exception ex) {
+//                Log.e(TAG, "Failed to parse JSON due to: " + ex);
+//            }
+//            bitmapHelper.addBitmapToMemoryCache(imageKey, bitmap);
+//        }
+//        setImageBitmap(Bitmap.createScaledBitmap(bitmap,bitmap.getWidth()*nbLevels/15,bitmap.getHeight()*nbLevels/15, false));
+//    }
 
 
     protected String getLevelImage(int dataId) {
@@ -112,7 +121,10 @@ public class MissionsByEpisodeMap extends ImageMap {
     }
 
 
-
+public interface OnImageMapClickedHandler {
+    void onImageMapClicked(int id, MissionsByEpisodeMap imageMap);
+    void onBubbleClicked(int id);
+}
 
 
 

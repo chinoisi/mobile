@@ -27,11 +27,15 @@ import yesuaini.chinoisinteractif.R;
 
 import static yesuaini.chinoisinteractif.hsk.CharacterListActivity.SELECTED_WORD_LIST_EXTRA;
 
-
+// TODO : episodes (lessons) --> missions (activité pédagogique)  /// Passage d un épisode à l autre --> évaluation
+// page mission : numéro mission / Objectif / Difficulté de la mission  / Bouton de jeu "Mener la mission"
+// / 3 boutons d aides - video - vocabulaires - cours en video conference (redirection vers site)
+// mission bonus  : culturel
+// Ajout
 public class EpisodesMapActivity extends AbstractNavigationActivity {
     public static final String MAP_EPISODES = "MapEpisodes";
     private static final String LOG_TAG = EpisodesMapActivity.class.getSimpleName();
-    ImageMap imageMap;
+    EpisodesMap episodesMap;
 
     @Override
     protected int getToolbarViewId() {
@@ -40,7 +44,7 @@ public class EpisodesMapActivity extends AbstractNavigationActivity {
 
     @Override
     protected int getContentViewActivity() {
-        return R.layout.map;
+        return R.layout.map_episodes;
     }
 
 
@@ -51,24 +55,25 @@ public class EpisodesMapActivity extends AbstractNavigationActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.map);
 
 		mActivity = this;
         pref = getBaseContext().getSharedPreferences(MAP_EPISODES, 0);
-        imageMap = (ImageMap)findViewById(R.id.imageMap);
+        setContentView(R.layout.map_episodes);
+        episodesMap = (EpisodesMap)findViewById(R.id.episodeMap);
+	    episodesMap.setImageResource(R.drawable.map);
         int level = pref.getInt(CURRENT_EPISODE_LEVEL_KEY, 1);
-        imageMap.setCurrentLevel(level);
+        episodesMap.setCurrentLevel(level);
 
-        imageMap.addOnImageMapClickedHandler(new ImageMap.OnImageMapClickedHandler()
+        episodesMap.addOnImageMapClickedHandler(new EpisodesMap.OnImageMapClickedHandler()
         {
 			@Override
-			public void onImageMapClicked(int id, ImageMap imageMap)
+			public void onImageMapClicked(int id, EpisodesMap imageMap)
 			{
-			//	imageMap.centerAndShowArea(id);
-			//	imageMap.showBubble(id);
+			//	episodesMap.centerAndShowArea(id);
+			//	episodesMap.showBubble(id);
                 int level = pref.getInt(CURRENT_EPISODE_LEVEL_KEY, 1);
 
-                int index = imageMap.getAreaIndex(id);
+                int index = episodesMap.getAreaIndex(id);
 
                 if (index <= level) {
                     Intent intent = new Intent(mActivity, MissionsByEpisodeMapActivity.class);
@@ -88,7 +93,7 @@ public class EpisodesMapActivity extends AbstractNavigationActivity {
 			}
 		});
 
-        imageMap.centerToLevelArea();
+        episodesMap.centerToLevelArea();
 
     }
 
